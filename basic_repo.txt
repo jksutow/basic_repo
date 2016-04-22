@@ -1,0 +1,8 @@
+gitHub to create “basic_repo”
+cd Desktop/
+mkdir basic_repo
+cd basic_repo
+git init
+touch basic_repo.txt
+touch basic_repo.html
+opened basic_repo.html in atom and added some content
