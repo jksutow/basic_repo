@@ -6,3 +6,10 @@ git init
 touch basic_repo.txt
 touch basic_repo.html
 opened basic_repo.html in atom and added some content
+git add .
+git commit -m “Initial Commit”
+git remote add origin https://github.com/jksutow/basic_repo.git
+git push -u origin master
+git checkout -b “add_css”
+went back to basic_repo.html and added some css styling
+
